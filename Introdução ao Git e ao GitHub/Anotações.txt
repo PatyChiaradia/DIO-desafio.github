@@ -1,0 +1,15 @@
+Comandos Git
+
+Dir/ls → utilizado para listar pastas/diretórios; serve para podermos nos situar dentro do sistema operacional e enteder em qual local estamos. ;
+Cd → utilizado para entrar em um pasta específica;
+Cd .. → sair da pasta;
+Cls/clear → utilizado para limpa o terminal; limpa a tela;
+Mkdir → utilizado para criar uma pasta/diretório;
+Echo → printa de volta no terminal uma frase ou texto escrito;
+> → utilizado para redirecionar o fluxo; vai criar um arquivo;
+Del (windows) → deleta arquivos da pasta;
+Rmdir/rm → deleta a pasta/diretório;
+git init → inciar o repositório do GIT;
+git add → mover arquivos e dar início ao versionamento;
+git commit → criação do primeiro commit;
+
